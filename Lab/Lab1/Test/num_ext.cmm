@@ -1,0 +1,11 @@
+int main()
+{
+  int a;
+  float f;
+  a = 0237;
+  a = 0xFF32;
+  f = 1.05e-4;
+  a = 09;
+  a = 0x1G;
+  f = 1.05e;
+}

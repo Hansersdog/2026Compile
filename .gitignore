@@ -1,0 +1,19 @@
+# build artifacts
+
+*.o
+*.d
+lex.yy.c
+syntax.tab.c
+syntax.tab.h
+syntax.output
+parser
+*.out
+
+# editor
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
